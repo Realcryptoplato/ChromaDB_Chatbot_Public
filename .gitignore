@@ -1,0 +1,18 @@
+venv/
+
+# ChromaDB database
+chromadb/
+
+# Log directories
+api_logs/
+chat_logs/
+db_logs/
+
+# Key and user profile
+key_openai.txt
+user_profile.txt
+
+# System files
+*.pyc
+.DS_Store
+__pycache__/
